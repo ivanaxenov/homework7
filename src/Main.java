@@ -1,9 +1,9 @@
 public class Main {
-    static int task;
+    static int printTaskNumber;
 
     public static void t() {
-        task++;
-        System.out.println("Задание №" + task);
+        printTaskNumber++;
+        System.out.println("Задание №" + printTaskNumber);
     }
 
     public static void main(String[] args) {
